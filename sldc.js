@@ -23,3 +23,4 @@ const analysisOfRequirements = "This is the second step, Which is the process of
 const design = "This is the third step, The process of envisioning and defining software solutions to one or more sets of problems."
 const implementation = "This is the fourth step, This is the step of the process where software engineers actually start to program the code for the project."
 const testingIntegration = "This is the fifth and final step, that focus's on testing the interface between two software units or module, doing so can help find what is correct and what might fail in the code."
+const maintain = "set up procces to make sure it works down the road"
